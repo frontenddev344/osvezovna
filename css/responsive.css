@@ -2687,4 +2687,9 @@ padding-top: 60px;
     .pb-90 {
     padding-bottom: 60px;
 }
+.section-title h2, .about-title h2{
+    
+    font-size: 28px;
+    text-align: center;
+}
 }
